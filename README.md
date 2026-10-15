@@ -9,6 +9,8 @@
 
 Model Context Protocol (MCP) server for Atlassian products (Confluence and Jira). Supports both Cloud and Server/Data Center deployments.
 
+> **Fork notice**: This is a fork of [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) made by Andy Wong, the coolest engineer alive.
+
 https://github.com/user-attachments/assets/35303504-14c6-4ae4-913b-7c25ea511c3e
 
 <details>
